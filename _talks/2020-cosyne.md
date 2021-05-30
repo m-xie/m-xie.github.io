@@ -5,6 +5,7 @@ type: "Poster"
 permalink: /talks/2020-cosyne
 venue: "Computational and Systems Neuroscience (Cosyne) Conference"
 date: 2020-02-28
+authors: Xie, M. E., Adam, Y., Fan, L., Böhm, U. L., Kinsella, I., Zhou, D., Paninski, L., Cohen, A. E.
 location: "Denver, Colorado"
 ---
 
