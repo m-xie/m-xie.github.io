@@ -1,7 +1,7 @@
 ---
 title: "Voltage imaging and optogenetics reveal behaviour-dependent changes in hippocampal dynamics"
 collection: publications
-permalink: /publications/adam-nature-2019
+permalink: /publication/adam-nature-2019
 excerpt: '**Abstract:** A technology that simultaneously records membrane potential from multiple neurons in behaving animals will have a transformative effect on neuroscience research. Genetically encoded voltage indicators are a promising tool for these purposes; however, these have so far been limited to single-cell recordings with a marginal signal-to-noise ratio in vivo. Here we developed improved near-infrared voltage indicators, high-speed microscopes and targeted gene expression schemes that enabled simultaneous in vivo recordings of supra- and subthreshold voltage dynamics in multiple neurons in the hippocampus of behaving mice. The reporters revealed subcellular details of back-propagating action potentials and correlations in subthreshold voltage between multiple cells. In combination with stimulation using optogenetics, the reporters revealed changes in neuronal excitability that were dependent on the behavioural state, reflecting the interplay of excitatory and inhibitory synaptic inputs. These tools open the possibility for detailed explorations of network dynamics in the context of behaviour.'
 date: 2019-05-16
 venue: 'Nature'
