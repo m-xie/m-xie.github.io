@@ -13,28 +13,14 @@ Education
 ======
 * A.B. in Chemistry and Physics, _summa cum laude_, Harvard College, 2020
 * A.M. in Statistics, Harvard University, 2020
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.D./Ph.D. Johns Hopkins University School of Medicine (current)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2020: Undergraduate Research Assistant
+  * Department of Chemistry and Chemical Biology, Harvard University
+  * Supervisor: Professor Adam E. Cohen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -53,7 +39,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
