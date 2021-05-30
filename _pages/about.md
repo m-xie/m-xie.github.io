@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Coming soon...
+Under construction...
+
+<!-- Welcome! I'm a MD/PhD student at Johns Hopkins University, interested in computational and systems neuroscience. -->
