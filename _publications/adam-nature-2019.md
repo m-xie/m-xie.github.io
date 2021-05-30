@@ -11,4 +11,4 @@ citation: 'Adam, Y., Kim, J. J., Lou, S., Zhao, Y., Xie, M. E., Brinks, D., Wu, 
 ---
 
 
-[Download paper here](http://cohenweb.rc.fas.harvard.edu/Publications/Adam_Nature_2019.pdf)
+[Download paper here](https://doi.org/10.1038/s41586-019-1166-7)
