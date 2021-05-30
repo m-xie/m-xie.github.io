@@ -7,7 +7,7 @@ date: 2019-05-16
 venue: 'Nature'
 paperurl: 'https://doi.org/10.1038/s41586-019-1166-7'
 citation: 'Adam, Y., Kim, J. J., Lou, S., Zhao, Y., Xie, M. E., Brinks, D., Wu, H., Mostajo-Radji, M. A., Kheifets, S., Parot, V., Chettih, S., Williams, K. J., Gmeiner, B., Farhi, S. L., Madisen, L., Buchanan, E. K., Kinsella, I., Zhou, D., Paninski, L., Harvey, C. D., Zeng, H., Arlotta, P., Campbell, R. E., Cohen, A. E. (2019). &quot;Voltage imaging and optogenetics reveal behaviour-dependent changes in hippocampal dynamics
-&quot; <i>Nature</i>. 569, 413-417.'
+&quot; <i>Nature</i> 569, 413-417.'
 ---
 
 
