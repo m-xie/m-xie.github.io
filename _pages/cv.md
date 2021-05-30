@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * A.B. in Chemistry and Physics, _summa cum laude_, Harvard College, 2020
+  * Thesis: "High-fidelity estimates of spikes and subthreshold waveforms from one-photon voltage imaging _in vivo_", Advisor: Professor Adam E. Cohen
 * A.M. in Statistics, Harvard University, 2020
 * M.D./Ph.D. Johns Hopkins University School of Medicine (current)
 
@@ -19,7 +20,10 @@ Research Experience
 ======
 * 2017-2020: Undergraduate Research Assistant
   * Department of Chemistry and Chemical Biology, Harvard University
-  * Supervisor: Professor Adam E. Cohen
+  * Advisor: Professor Adam E. Cohen
+* 2017-2020: Visiting Research Assistant
+  * Center for Theoretical Neuroscience, Columbia University
+  * Advisor: Professor Liam Paninski
 
 Awards and Honors
 ======
