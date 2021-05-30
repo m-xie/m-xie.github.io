@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
+* M.D./Ph.D. Johns Hopkins University School of Medicine, in progress (entered 2020)
+* A.M. in Statistics, Harvard University, 2020
 * A.B. in Chemistry and Physics, _summa cum laude_, Harvard College, 2020
   * Thesis: "High-fidelity estimates of spikes and subthreshold waveforms from one-photon voltage imaging _in vivo_", advised by Professor Adam E. Cohen
-* A.M. in Statistics, Harvard University, 2020
-* M.D./Ph.D. Johns Hopkins University School of Medicine (current)
 
 Research Experience
 ======
