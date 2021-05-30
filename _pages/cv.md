@@ -18,10 +18,10 @@ Education
 
 Research Experience
 ======
-* 2017-2020: Undergraduate Research Assistant
+* 2017-2021: Undergraduate Research Assistant
   * Department of Chemistry and Chemical Biology, Harvard University
   * Advisor: Professor Adam E. Cohen
-* 2017-2020: Visiting Research Assistant
+* 2018-2020: Visiting Research Assistant
   * Center for Theoretical Neuroscience, Columbia University
   * Advisor: Professor Liam Paninski
 
