@@ -38,7 +38,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Conference Presentations
+Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
