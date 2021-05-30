@@ -86,7 +86,7 @@ author:
   location         : "Baltimore, MD"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=michael+e+xie"
-  googlescholar    : "https://scholar.google.com/citations?user=otwkOY0AAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=otwkOY0AAAAJ&hl=en"
   email            : "mxie11@jhmi.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "m-xie"
+  github           : #"m-xie"
   google_plus      :
   keybase          :
   instagram        :
