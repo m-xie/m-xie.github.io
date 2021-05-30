@@ -86,7 +86,7 @@ author:
   location         : "Baltimore, MD"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=michael+e+xie"
-  googlescholar    : #"https://scholar.google.com/citations?user=otwkOY0AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=otwkOY0AAAAJ&hl=en"
   email            : "mxie11@jhmi.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-4026-9181"
+  orcid            : #"http://orcid.org/0000-0002-4026-9181"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
