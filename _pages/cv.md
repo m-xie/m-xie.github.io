@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* A.B. in Chemistry and Physics, _summa cum laude_, Harvard College, 2020
+* A.M. in Statistics, Harvard University, 2020
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
