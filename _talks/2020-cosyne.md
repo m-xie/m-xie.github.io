@@ -12,4 +12,4 @@ Xie, M. E., Adam, Y., Fan, L., Böhm, U. L., Kinsella, I., Zhou, D., Paninski, L
 
 Meeting Program: [http://cosyne.org/cosyne20/Cosyne2020_program_book.pdf](http://cosyne.org/cosyne20/Cosyne2020_program_book.pdf)
 
-Funded by the Cosyne Undergraduate Travel Grant and Herchel Smith Undergraduate Science Research Fellowship.
+Funded by the Cosyne Undergraduate Travel Grant and the Herchel Smith Undergraduate Science Research Fellowship.
