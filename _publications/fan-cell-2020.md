@@ -10,4 +10,4 @@ citation: 'Fan, L. Z., Kheifets, S., Böhm, U. L., Wu, H., Piatkevich, K. D., Xi
 ---
 
 
-[Download paper here](http://cohenweb.rc.fas.harvard.edu/Publications/Fan_etal_L1%20inhibition_Cell%202020.pdf)
+[Download paper here](https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2930047-7)
