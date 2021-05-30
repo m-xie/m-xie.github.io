@@ -25,13 +25,6 @@ Research Experience
   * Center for Theoretical Neuroscience, Columbia University
   * Advisor: Professor Liam Paninski
 
-Awards and Honors
-======
-* Thomas Temple Hoopes Prize, 2021
-* Computational and Systems Neuroscience (Cosyne) Conference Undergraduate Travel Grant, 2020
-* Rhodes Scholarship Finalist, 2019
-* Phi Beta Kappa, Senior 48, 2019
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -49,4 +42,10 @@ Conferences and Presentations
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+
+Awards and Honors
+======
+* Thomas Temple Hoopes Prize, 2021
+* Rhodes Scholarship Finalist, 2019
+* Phi Beta Kappa, Senior 48, 2019
  
